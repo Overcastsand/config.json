@@ -1,5 +1,5 @@
 {
-  "status": "LOCKED",
+  "status": "ACTIVE", // Status of the connection, can be "ACTIVE", or "LOCKED" (this is the Kill switch, when set to "LOCKED", the connection will be disabled and the core will not load but when set to "ACTIVE", the connection will be enabled and the core will load)
   "version": "0",
   "message": "The Munchkin Lord // Connection Stable",
   "core_url": "https://cdn.jsdelivr.net/gh/your-username/your-repo@main/core.html"
